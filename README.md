@@ -12,3 +12,13 @@ To compute LEI from the reference genotype-level data, use the R-function
           lie_freq(k, frq_pop, count_pop)
        
        where, k = number of poulations, frq_pop = a vector of reference allele frequencies for the k populations, count_pop = corresponding population size, a vector of length k.
+## Contributor
+Yadu Gautam, PhD
+
+Research Associate, Asthma Division
+
+Cincinnati Childrens's Medical Hospital, Cincinnati
+## License
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3. See [LICENSE](https://github.com/MershaLab/LEI/edit/master/LICENSE) for more details.
+## Contact
+Contact Yadu Gautam at yadu.gautam@cchmc.org or Tesfaye Mersha at tesfaye.mersha@cchmc.org for questions, comments, or suggestions. 
