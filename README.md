@@ -8,7 +8,7 @@ To compute LEI from the reference genotype-level data, use the R-function
           lie_geno(x, y)
       
       where, x = vector of genotypes coded as 0, 1, or 2 based on # of reference alleles, length of x = total numbers of ancestral samples genotyped in the reference panels and y = vector of population membership. Length of y = length of x.
-To compute LEI from the reference genotype-level data, use the R-function 
+To compute LEI from the reference allele frequency data, use the R-function 
           
           lie_freq(k, frq_pop, count_pop)
        
